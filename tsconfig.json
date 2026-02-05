@@ -16,7 +16,7 @@
     "plugins": [
       {
         "name": "next"
-      }
+      },
     ],
     "paths": {
       "@/*": ["./*"]
@@ -32,3 +32,4 @@
   ],
   "exclude": ["node_modules"]
 }
+
