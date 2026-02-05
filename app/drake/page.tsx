@@ -68,7 +68,7 @@ export default function Page() {
         Embrace the Future of Tax Operations with Confidence
       </h2>
 
-      <button className="bg-blue-900 py-3 px-10 cursor-pointer hover:bg-white border hover:text-blue-900 hover:border-blue-900 rounded-full font-bold text-white transition">
+      <button className="bg-blue-900 text-white border border-blue-900 py-3 px-10 rounded-full font-bold cursor-pointer transition hover:bg-white hover:text-blue-900">
         Request a free Quote
       </button>
     </section>
